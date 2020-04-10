@@ -1,0 +1,12 @@
+*.bak
+*.pyc
+verifyta
+*.swp
+*.xtr
+*.cmake
+Makefile
+CMakeCache.txt
+CMakeFiles
+*.a
+*.txt
+model_builder
