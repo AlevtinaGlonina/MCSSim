@@ -8,5 +8,3 @@ Makefile
 CMakeCache.txt
 CMakeFiles
 *.a
-*.txt
-model_builder
