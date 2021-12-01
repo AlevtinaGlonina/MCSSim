@@ -6,6 +6,10 @@ Build:
 
 cd MCSSim
 cmake CMakeLists.txt
+make
+
+Renew C++ models from automata:
+
 cd generator
 ./build.sh
 
